@@ -56,13 +56,20 @@
     font-size: 40px;
     padding-top: 220px;
     margin-left: 200px;
+    color: #151414;
+}
+.failures-description{
+    width: 416px;
+    height: 104px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #444343;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.failures-ul{
+    list-style: none;
+    padding-left: 200px;
+    color: #444343;
 }
 
-
-<ul class="failures-ul">
-<li>Contrary to popular belief, is not simply.</li>
-<li>Contrary to popular belief.</li>
-<li>Contrary to popular , is not simply.</li>
-<li>Contrary to popular belief, is not simply.</li>
-<li>Contrary to popular simply.</li>
-</ul>
