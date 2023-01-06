@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+    height: 100vh;
+    
+    background-image: url('/images/banner/banner2.png');
+    background-repeat: no-repeat;
+    
+}
+.banner-text{
+    font-size: 65px;
+    width: 525px;
+    height: 220px;
+    text-align: right;
+    margin-left: 845px;
+    padding-top: 216px;
+    padding-bottom: 24px;
+    font-weight: 700;
+    
+}
+.banner-description{
+    width: 494px;
+    height: 78px;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+    margin-left: 876px;
+    padding-top: 24px;
+}
+.btn{
+    width: 160px;
+    height: 64px;
+    margin-left: 1210px;
+    text-align: center;
+    background: orangered;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+/* failure section*/
+.failures{
+    display: flex;
+}
+.person-img{
+    width: 569px;
+    height: 723px;
+    padding-left: 206px;
+}
+.failures-main{
+    width: 288px;
+    height: 94px;
+    font-size: 40px;
+    padding-top: 220px;
+    margin-left: 200px;
+}
+
+
+<ul class="failures-ul">
+<li>Contrary to popular belief, is not simply.</li>
+<li>Contrary to popular belief.</li>
+<li>Contrary to popular , is not simply.</li>
+<li>Contrary to popular belief, is not simply.</li>
+<li>Contrary to popular simply.</li>
+</ul>
