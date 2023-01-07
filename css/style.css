@@ -98,9 +98,35 @@
 
 /* gradient*/
 .gradient{
-    width: 100%;
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    border-radius: 8px;
+    background-image: url('../images/watch.png'),linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    background-blend-mode: overlay; 
+}
+.gradient-main{
+    width: 459px;
+    height: 182px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.gradinet-title{
+    width: 459px;
+    height: 94px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+}
+.gradient-btn{
+    width: 160px;
     height: 50px;
-    background-image: url('../images/watch.png');
+    font-size: 20px;
+    color: #F15B22;
+    border: none;
+    border-radius: 5px;
+
 }
 /*footer*/
 .footer{
