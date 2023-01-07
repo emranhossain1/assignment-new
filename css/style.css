@@ -101,10 +101,11 @@
     width: 1140px;
     height: 300px;
     margin-left: 230px;
-    border-radius: 8px;
     background-image: url('../images/watch.png'),linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     background-blend-mode: overlay; 
+    background-repeat: no-repeat;
     margin-top: 100px;
+    border-radius: 8px;
 }
 .gradient-main{
     width: 459px;
