@@ -72,4 +72,95 @@
     padding-left: 200px;
     color: #444343;
 }
+/* my plan section*/
+.my{
+    padding-top: 100px;
+}
 
+.about{
+   text-align: center;
+   font-size: 40px;
+   font-weight: 700;
+   color: #151414;
+
+
+}
+
+.development{
+    display: flex;
+    
+    text-align: center;
+    margin-left: 300px;
+}
+.start{
+    margin-right: 86px;
+    padding-top: 50px;
+}
+/*footer*/
+.footer{
+    display: flex;
+    padding-left: 230px;
+    background-color: #151414;
+    margin-top: 130PX;
+    padding-top: 130px;
+    
+}
+.future{
+    width: 184px;
+    height: 53px;
+    font-size: 45px;
+    font-weight: 700;
+    color: #F8F8F8;
+
+}
+.footer-description{
+    width: 485px;
+    height: 78px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-top: 20PX;
+    
+}
+.email{
+    width: 148px;
+    height: 26px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+
+}
+.icon{
+    width: 46px;
+    height: 46px;
+    margin: 5px;
+}
+.form{
+    margin-left: 331px;
+}
+.sub{
+    width: 122px;
+    height: 29px;
+    font-size: 25px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-bottom: 31px;
+}
+.enter{
+    width: 300px;
+    height: 50px;
+    color: #F8F8F8;
+    background: #151414;
+   border: 1px solid #F8F8F8;
+   border-radius: 5px;
+   margin-bottom: 20px;
+}
+.sub2{
+    width: 120px;
+    height: 50px;
+    background: #FFFFFF;
+    font-size: 16px;
+    color: red;
+    border-radius: 5px;
+    
+}
